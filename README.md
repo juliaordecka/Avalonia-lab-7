@@ -1,0 +1,1 @@
+Jest to prosta aplikacja stworzona przy użyciu Avalonii. Program identyfikuje i zlicza wszystkie unikalne fragmenty o długości 4 znaków w podanej sekwencji DNA, następnie wyświetla każdy fragment wraz z liczbą jego wystąpień.
